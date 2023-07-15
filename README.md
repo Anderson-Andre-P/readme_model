@@ -1,25 +1,25 @@
 <!---
-Titulo: Clone Twitter
-Nome do repositório: Clone_Twitter
-Data do upload: 16.05.22
+Titulo: Modelo de README
+Nome do repositório: readme_model
+Data do upload: 15.07.23
 Cor do badge: 5965e0
 -->
 
-<h1 align="center">Clone Twitter</h1>
+<h1 align="center">Modelo de README</h1>
 
 <p align="center">
-  <a href="https://github.com/Anderson-Andre-P/clone-twitter">
+  <a href="https://github.com/Anderson-Andre-P/readme_model">
     <img alt="Made by Anderson André" src="https://img.shields.io/badge/-Github-5965e0?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Anderson-Andre-P" />
   </a>
   <a href="https://www.linkedin.com/in/anderson-andre-pereira/">
       <img alt="Anderson André" src="https://img.shields.io/badge/-Anderson%20André-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/clone-twitter?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Anderson-Andre-P/readme_model?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Clone_Twitter-16.05.22-5965e0?style=for-the-badge&labelColor=5965e0">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/clone-twitter?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
+    <img src="https://img.shields.io/badge/readme_model-15.07.23-5965e0?style=for-the-badge&labelColor=5965e0">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Anderson-Andre-P/readme_model?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
 </p>
 
@@ -124,10 +124,10 @@ Follow the steps below to run the project on your computer. (using terminal or g
 
    ```bash
     # Cloning the repository
-   $ git clone https://github.com/Anderson-Andre-P/Clone_Twitter.git
+   $ git clone https://github.com/Anderson-Andre-P/readme_model.git
 
    # Accessing THIS project directory
-   $ cd './Clone_Twitter'
+   $ cd './readme_model'
 
    # Installing the dependencies
    $ yarn OR npm install
