@@ -5,7 +5,7 @@ Data do upload: 15.07.23
 Cor do badge: 5965e0
 -->
 
-<h1 align="center">Modelo de README</h1>
+<h1 align="center">Model of README</h1>
 
 <p align="center">
   <a href="https://github.com/Anderson-Andre-P/readme_model">
@@ -24,11 +24,10 @@ Cor do badge: 5965e0
 </p>
 
 <p align="center">
-  <a href="#link-demo">Demo</a> &#xa0; | &#xa0; 
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#white_check_how-to-contribute">How to Contribute</a> &#xa0; | &#xa0;
+  <a href="#checkered_executing-project">Executing Project</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Author</a>
 </p>
@@ -39,11 +38,22 @@ Cor do badge: 5965e0
 
 ## :dart: About
 
-Esse é um projeto de estudos que consistia em criar um clone da rede social Twitter. Eu tinha como objetivo deixar o mais parecido possível e implementar algumas funcionalidades que a rede social também possui.
+This project was developed with the objective of [briefly describe the main objective of the project]. During the process, several features were implemented and important milestones were reached to achieve this goal. In this summary, we will present an overview of the project, highlighting its main characteristics and achievements.
+
+#### Functionalities Implemented
+
+1. [Briefly describe functionality 1]
+2. [Briefly describe functionality 2]
+3. [Briefly describe functionality 3]
+
+#### Main Achievements
+
+1. [Highlight a significant achievement achieved during the project, such as a complex implementation, performance improvement, or resolution of a challenging problem]
+2. [Highlight other significant achievement, if applicable]
 
 ## :rocket: Technologies
 
-Esse projeto foi desenvolvido com o propósito de aperfeiçoar mais minhas habilidades em responsividade e em ReactJS. As principais tecnologias, foram:
+The project was developed using the following technologies and tools:
 
 ### Front-end
 
@@ -51,7 +61,6 @@ Esse projeto foi desenvolvido com o propósito de aperfeiçoar mais minhas habil
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [Styled Icons](https://styled-icons.dev/)
-
 - [Next.JS](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Redux](https://redux.js.org/)
@@ -112,11 +121,20 @@ Esse projeto foi desenvolvido com o propósito de aperfeiçoar mais minhas habil
 - [NPM](https://www.npmjs.com/)
 - [Yarn](https://yarnpkg.com/)
 
-## :white_check_mark: Requirements
+## :white_check_mark: How to Contribute
 
-Antes de dar start :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+If you want to contribute to the project, you can follow these steps:
 
-## Running Project
+1. Fork this repository and clone it to your local machine.
+2. Create a new branch with a descriptive name for your contribution.
+3. Implement your modifications or additions.
+4. Perform the necessary tests to ensure that your changes work properly.
+5. Commit your changes and push them to your repository.
+6. Open a pull request against this repository, describing your changes and providing additional information if needed.
+
+## :checkered_flag: Executing Project
+
+Before running :checkered_flag:, você precisa ter [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 Follow the steps below to run the project on your computer. (using terminal or git bash)
 
@@ -136,16 +154,16 @@ Follow the steps below to run the project on your computer. (using terminal or g
    $ yarn run dev
    ```
 
-## :checkered_flag: Starting
-
-Você pode ver como ficou a aplicação em sua versão web <a href="https://genuine-pika-26f547.netlify.app/">clicando aqui</a>
+You can see how the application looks in its web version <a href="https://genuine-pika-26f547.netlify.app/">clicking here</a>
 
 ## :memo: License
 
-Esse projeto conta com a licença do MIT. Para mais detalhes, veja a [LICENSE](LICENSE.md) file.
+This project is licensed under [LICENSE](LICENSE.md). Be sure to read the license file for more details.
 
-Feito com o :heart: por <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Anderson André</a>
+## Contact
+
+If you have any questions or suggestions about the project, please feel free to contact us. You can find us at [provide contact information such as email address or link to a communication channel]. Thank you for your interest and support for the project!
 
 &#xa0;
 
-<a href="#top">Voltar ao início</a>
+<a href="#top">Back to top</a>
