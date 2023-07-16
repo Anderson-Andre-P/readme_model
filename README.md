@@ -36,6 +36,8 @@ Cor do badge: 5965e0
 
 ![Demo](/Demo.png)
 
+[Modelos de Banner](https://www.figma.com/file/EeOHw35yMsqnaIHSFo6G32/Banners?type=design&node-id=0%3A1&mode=design&t=6e58FKnRMeQUjtJj-1)
+
 ## :dart: About
 
 This project was developed with the objective of [briefly describe the main objective of the project]. During the process, several features were implemented and important milestones were reached to achieve this goal. In this summary, we will present an overview of the project, highlighting its main characteristics and achievements.
