@@ -48,8 +48,8 @@ This project was developed with the objective of [briefly describe the main obje
 
 #### Main Achievements
 
-1. [Highlight a significant achievement achieved during the project, such as a complex implementation, performance improvement, or resolution of a challenging problem]
-2. [Highlight other significant achievement, if applicable]
+- [ ] [Highlight a significant achievement achieved during the project, such as a complex implementation, performance improvement, or resolution of a challenging problem]
+- [x] [Highlight other significant achievement, if applicable]
 
 ## :rocket: Technologies
 
@@ -125,12 +125,43 @@ The project was developed using the following technologies and tools:
 
 If you want to contribute to the project, you can follow these steps:
 
-1. Fork this repository and clone it to your local machine.
-2. Create a new branch with a descriptive name for your contribution.
-3. Implement your modifications or additions.
-4. Perform the necessary tests to ensure that your changes work properly.
-5. Commit your changes and push them to your repository.
-6. Open a pull request against this repository, describing your changes and providing additional information if needed.
+#### Step 1
+
+Fork this repository and clone it to your local machine using the code bellow.
+
+```bash
+https://github.com/Anderson-Andre-P/readme_model
+```
+
+#### Step 2
+
+Create a new branch with a descriptive name for your contribution.
+
+```bash
+git checkout -b my-feature
+```
+
+#### Step 3
+
+Implement your modifications or additions.
+
+#### Step 4
+
+Perform the necessary tests to ensure that your changes work properly.
+
+#### Step 5
+
+Commit your changes and push them to your repository.
+
+```bash
+git commit -m "feat: My new feature"
+```
+
+#### Step 6
+
+Open a pull request against this repository, describing your changes and providing additional information if needed.
+
+After your Pull Request is merged, can you delete your feature branch.
 
 ## :checkered_flag: Executing Project
 
@@ -154,14 +185,17 @@ $ yarn run dev
 
 You can see how the application looks in its web version <a href="https://genuine-pika-26f547.netlify.app/">clicking here</a>
 
-## :memo: License
-
-This project is licensed under [LICENSE](LICENSE.md). Be sure to read the license file for more details.
-
 ## Contact
 
 If you have any questions or suggestions about the project, please feel free to contact us. You can find us at [provide contact information such as email address or link to a communication channel]. Thank you for your interest and support for the project!
 
-&#xa0;
+- LinkedIn at
+- Instagram
+
+<!-- &#xa0; -->
+
+## :memo: License
+
+This project is licensed under [LICENSE](LICENSE.md). Be sure to read the license file for more details.
 
 <a href="#top">Back to top</a>
