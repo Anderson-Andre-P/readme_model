@@ -29,7 +29,7 @@ Cor do badge: 5965e0
   <a href="#white_check_mark-how-to-contribute">How to Contribute</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-executing-project">Executing Project</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{anderson-andre-p}}" target="_blank">Author</a>
+  <a href="https://github.com/Anderson-Andre-P" target="_blank">Author</a>
 </p>
 
 ## :link: Demo
