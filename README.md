@@ -138,21 +138,19 @@ Before running :checkered_flag:, você precisa ter [Git](https://git-scm.com) an
 
 Follow the steps below to run the project on your computer. (using terminal or git bash)
 
-1. Clone this repository
+```bash
+ # Cloning the repository
+$ git clone https://github.com/Anderson-Andre-P/readme_model.git
 
-   ```bash
-    # Cloning the repository
-   $ git clone https://github.com/Anderson-Andre-P/readme_model.git
+# Accessing THIS project directory
+$ cd './readme_model'
 
-   # Accessing THIS project directory
-   $ cd './readme_model'
+# Installing the dependencies
+$ yarn OR npm install
 
-   # Installing the dependencies
-   $ yarn OR npm install
-
-   # Run project
-   $ yarn run dev
-   ```
+# Run project
+$ yarn run dev
+```
 
 You can see how the application looks in its web version <a href="https://genuine-pika-26f547.netlify.app/">clicking here</a>
 
